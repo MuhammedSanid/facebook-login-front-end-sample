@@ -1,0 +1,210 @@
+.header {
+    background-color: #3b5998;
+    width: 100%;
+    height: 85px;
+}
+
+body {
+    margin: 0;
+    font-family: Helvetica Neue, Arial, Helvetica, sans-serif;
+    ;
+}
+
+.logo {
+    width: 50%;
+    padding-top: 40px;
+    float: left;
+
+}
+
+.login {
+    width: 50%;
+    float: left;
+    padding-top: 7px;
+
+}
+
+.logo-text {
+    color: white;
+    text-decoration: none;
+    font-size: 35px;
+    font-weight: bold;
+    font-family: Helvetica Neue, Arial, Helvetica, sans-serif;
+    margin-left: 173px;
+}
+
+.loging-label {
+    color: #fff;
+    font-size: 11px;
+}
+
+.login-controls {
+    margin-left: 47px;
+}
+
+.forgott {
+    color: #9cb4d8;
+    font-size: 11px;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.forgott:hover {
+    color: #fff;
+}
+
+.loginbutton {
+    color: #fff;
+    background-color: #4267b2;
+    height: 20px;
+    border-color: #29487d;
+    cursor: pointer;
+
+}
+
+.loginbutton:hover {
+    background: lightblue;
+    color: black;
+}
+
+.left-sc {
+    width: 40%;
+    float: left;
+    padding-left: 40px;
+    padding-top: 50px;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.right-sc {
+    width: 50%;
+    float: left;
+    padding-left: 40px;
+
+
+
+}
+
+.main-body {
+    background: #fff;
+    width: 100%;
+    height: 430px;
+    margin: 0px;
+    font-family: Helvetica Neue, Arial, Helvetica, sans-serif;
+
+}
+
+.img {
+    width: 400px;
+}
+
+.fname {
+    height: 24px;
+    width: 250px;
+    border-radius: 5px;
+    font-size: 15px;
+    border-color: whitesmoke;
+    border-left: whitesmoke;
+    border-top: whitesmoke;
+    float:left;
+
+}
+
+
+.sname {
+    height: 24px;
+    width: 200px;
+    border-radius: 5px;
+    font-size: 15px;
+    border-color: whitesmoke;
+    border-left: whitesmoke;
+    border-top: whitesmoke;
+    float:right;
+
+
+
+
+
+}
+
+.create {
+    font-size: 40px;
+}
+
+.easy {
+    font-weight: lighter;
+}
+
+.mobilenumber {
+    width: 500px;
+    height: 24px;
+    padding-top: 10px;
+    margin: 2px auto 2px;
+    float: left;
+    size: 15px;
+    border-radius: 5px;
+    font-size: 15px;
+    border-color: whitesmoke;
+    border-left: whitesmoke;
+    border-top: whitesmoke;
+    float: left;
+}
+
+.Birthday {
+    padding-top: 10px;
+    font-size: 15px;
+    margin: 2px auto 2px;
+}
+
+.question {
+
+    border-radius: 50%;
+    size: -3px;
+    background-color: darkgray;
+    color: #fff;
+    border-color: darkgrey;
+    border-left: darkgrey;
+    border-top: darkgrey;
+    border-bottom: darkgrey;
+    border-right: darkgrey;
+
+}
+
+.day {
+    border-color: whitesmoke;
+    border-left: whitesmoke;
+    border-top: whitesmoke;
+}
+
+.gender {
+    font-size: 15px;
+    margin: 2px auto 2px;
+
+}
+
+.privacy {
+    font-size: 10px;
+    margin: 2px auto 2px;
+    margin: 5px auto 5px;
+}
+
+.sign-up {
+    background-color: green;
+    color: #fff;
+    font-size: 21px;
+    font-style: bold;
+    width: 60%;
+    border-radius: 5px;
+    border-color: green;
+    border-right: green;
+    border-left: green;
+    border-top: green;
+    border-bottom: green;
+    cursor: pointer;
+    margin: 2px auto 2px;
+}
+
+.sign-up:hover {
+    background: yellowgreen;
+    color: black;
+}
